@@ -1,0 +1,41 @@
+Age,Favgenre,BPM,Anxiety,Depression,Insomnia,OCD,Musiceffects,COUNT (Musiceffects)
+17,classical,120,6,6,8,2,Improve,39
+19,classical,120,4,4,4,3,No effect,13
+17,classical,135,7,9,2,8,Worsen,1
+19,country,88,2,1,2,0,Improve,20
+18,country,,7,7,4,7,No effect,5
+21,edm,,10,10,5,7,,0
+19,edm,125,1,0,0,1,Improve,30
+32,edm,120,3,6,2,0,No effect,6
+21,folk,105,3,3,1,0,,0
+17,folk,118,7,3,1,5,Improve,23
+30,folk,89,9,0,5,0,No effect,6
+60,gospel,119,3,0,2,0,Improve,6
+,hip hop,,9,3,2,7,Improve,31
+22,hip hop,113,7,7,0,1,No effect,4
+61,jazz,84,9,7,3,3,Improve,16
+23,jazz,,10,3,0,10,No effect,4
+18,k pop,122,0,2,0,0,,0
+21,k pop,95,5,3,5,3,Improve,19
+22,k pop,126,7,8,5,1,No effect,4
+18,latin,156,3,0,1,0,,0
+18,latin,73,10,6,0,0,Improve,1
+17,latin,172,0,3,9,5,No effect,1
+17,lofi,79,3,8,0,0,Improve,10
+19,metal,,9,8,2,3,Improve,67
+18,metal,77,1,0,8,2,No effect,21
+18,pop,169,7,4,2,5,Improve,85
+18,pop,79,3,3,8,6,No effect,25
+17,pop,,7,5,4,1,Worsen,4
+18,r&b,107,7,2,5,9,Improve,26
+26,r&b,113,3,2,0,0,No effect,9
+17,rap,99,7,5,0,3,Improve,17
+23,rap,140,10,6,3,10,No effect,4
+13,rap,112,4,0,0,2,Worsen,1
+63,rock,119,7,2,2,1,,0
+19,rock,94,2,0,0,0,Improve,126
+26,rock,140,9,8,1,0,No effect,53
+32,rock,91,10,10,3,1,Worsen,7
+18,video game music,66,4,8,6,0,Improve,26
+18,video game music,132,7,7,10,2,No effect,14
+20,video game music,60,8,4,3,3,Worsen,4
