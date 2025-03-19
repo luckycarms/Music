@@ -30,7 +30,7 @@ Since I used the popularity dataset from Spotify, I used only the survey respons
 1. Data exploration: Jupyter Notebook
 2. Analysis: Using Python with the Pandas package to clean the data as well as using DBBRowser for SQLite to organize the data
 3. Visualizations: Used Matplotlib, Seaborn and Wave to visualize data
-4. Dashboard: Generate dashboard here:
+
 
 ## Features Utilized for the project
 
