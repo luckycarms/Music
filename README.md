@@ -45,9 +45,9 @@ Since I used the popularity dataset from Spotify, I used only the survey respons
 
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/luckycarms/Music.git'
-2. Install the necessary requirements: `pip install -r requirements.txt'
-3. Explore the Jupyter notebook music.ipynb
+1. Clone the repository: 'git clone https://github.com/luckycarms/Music.git'
+2. Install the necessary requirements: 'pip install -r requirements.txt'
+3. Explore the Jupyter notebook 'music.ipynb'
 
 ## Dependencies
 * Used Python, and DBBrowser for SQLite
