@@ -36,8 +36,8 @@ Since I used the popularity dataset from Spotify, I used only the survey respons
 
 | Feature          | Description                          |
 |------------------|--------------------------------------|
-| Read one dataset in with an API and one data set from csv | Read in dataset from kaggle first one using Kagglehub the second one from downloading the files|
-| Cleaned survey dataset | In jupyter notebook cleaned the survey dataset and then later merged it with the spotify dataset. |
+| Read one dataset in with an API and one data set from csv | Read in dataset from kaggle first one using Kagglehub the second one from downloading the files| 
+| Cleaned the survey dataset  | In notebook cleaned the survey dataset then later merged survey dataset with spotify dataset and created a new column based on a calculation |
 | Cleaned the spotify dataset | In DBBrowser for SQlite cleaned and filtered dataset then performed a union for the high and low popularity data. |
 | Visualization | Made a bar graph, A waveform and a heatmap using Matplotlib, Seaborn, and Wave. |
 | Utilize a virtual environment      | Made a venv for this project. |
@@ -45,9 +45,9 @@ Since I used the popularity dataset from Spotify, I used only the survey respons
 
 
 ## Getting Started
-1. Clone the repository: 'git clone https://github.com/luckycarms/Music.git'
-2. Install the necessary requirements: 'pip install -r requirements.txt'
-3. Explore the Jupyter notebook 'music.ipynb'
+1. Clone the repository: `git clone https://github.com/luckycarms/Music.git'
+2. Install the necessary requirements: `pip install -r requirements.txt'
+3. Explore the Jupyter notebook music.ipynb
 
 ## Dependencies
 * Used Python, and DBBrowser for SQLite
