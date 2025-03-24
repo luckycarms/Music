@@ -71,6 +71,9 @@ Since I used the popularity dataset from Spotify, I used only the survey respons
 | Deactivate | deactivate | deactivate |
 
 
+#### Presentation
+
+[View my Google Slides presentation here](https://docs.google.com/presentation/d/1SJ78U2xlyX-TFH7yXW4EDoq4XJFyEW2ZQbD4Uvb1V2U/edit?usp=sharing)
 
 
 
